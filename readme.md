@@ -52,10 +52,6 @@ Deploy the build output war file to Tomcat.
 
 Open `/reset` in your browser and follow the instructions to prep the database
 
-## Warning
-
-Do not taunt Happy Fun Ball.
-
 Login with a username/password as defined in `Utils.java`
 
 ## AWS Deployment
@@ -67,3 +63,7 @@ On the first environment deployment, a script will automatically setup the datab
 ## Exploitation Demos
 
 See the `docs` folder.
+
+## Warning
+
+Do not taunt Happy Fun Ball.
