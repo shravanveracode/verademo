@@ -52,6 +52,10 @@ Deploy the build output war file to Tomcat.
 
 Open `/reset` in your browser and follow the instructions to prep the database
 
+## Warning
+
+Do not taunt Happy Fun Ball.
+
 Login with a username/password as defined in `Utils.java`
 
 ## AWS Deployment
