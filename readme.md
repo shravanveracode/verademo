@@ -2,7 +2,7 @@
 
 ## Abouts
 
-Blab-a-Gag is a fairly simple forum type application which allows: test12 3 4 5 6
+Blab-a-Gag is a fairly simple forum type application which allows: test12 3 4 5 6 7
 
 - users to post a one-liner joke..
 - users to follow the jokes of other users or not (listen or ignore)
